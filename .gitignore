@@ -29,7 +29,6 @@ lerna-debug.log*
 pnpm-debug.log*
 
 # Package manager lock files
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-store/
@@ -278,6 +277,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+prisma/dev.db
 
 # Flask stuff:
 instance/
